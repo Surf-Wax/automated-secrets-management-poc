@@ -1,0 +1,12 @@
+.env
+.envrc
+shell.nix
+*.key
+vault/data/*
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+*.tfvars
+.terraform/
+venv/
+volume/
